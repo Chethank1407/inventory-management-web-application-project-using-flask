@@ -19,9 +19,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Python 3.7 or later
-- Flask 1.1.2 or later
-- Flask-SQLAlchemy 2.4.4 or later
+- Python 3.11.2 or later
+- Flask 2.3.3 or later
+- Flask-SQLAlchemy 3.1.1 or later
 
 
 ### Installation
