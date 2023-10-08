@@ -21,16 +21,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
 
-
-​
-`git clone https://github.com/Chethank1407/inventory-management-web-application-project-using-flask.git`
-​
-
+```
+git clone https://github.com/Chethank1407/inventory-management-web-application-project-using-flask.git
+```
 
 2. Change to the project directory:
 
-
-​
 ```
 cd inventory-management-web-application-project-using-flask
 ```
+
+3. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+4. Run the application:
+
+```
+python app.py
+```
+
+
+###Usage
+Navigate to http://localhost:8089 in your web browser to access the application.
