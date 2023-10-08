@@ -31,4 +31,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ​
-`cd inventory-management-web-application-project-using-flask`
+```
+cd inventory-management-web-application-project-using-flask
+```
