@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ​
-'git clone https://github.com/Chethank1407/inventory-management-web-application-project-using-flask.git'
+`git clone https://github.com/Chethank1407/inventory-management-web-application-project-using-flask.git`
 ​
 
 
@@ -31,4 +31,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ​
-'cd inventory-management-web-application-project-using-flask'
+`cd inventory-management-web-application-project-using-flask`
