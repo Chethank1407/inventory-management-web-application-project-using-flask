@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #87CEEB; /* Light Sky Blue background */
+    margin: 0;
+    padding: 0;
+    color: #333; /* Dark text color */
+    font-size: 18px; /* Larger font size for body text */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 50px; /* Increased padding */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #007BFF; /* Heading color */
+    font-weight: bold; /* Bold font for headings */
+    font-size: 36px; /* Larger font size for headings */
+    margin-bottom: 20px; /* Increased bottom margin for headings */
+}
+
+p, td, label {
+    font-family: 'Arial', sans-serif; /* Font style similar to headings but not bold */
+    font-size: 18px; /* Larger font size for paragraphs, table cells, and labels */
+    margin-bottom: 15px; /* Increased bottom margin for paragraphs, table cells, and labels */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 20px; /* Increased padding for table cells */
+    text-align: left;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.input-field, .submit-btn {
+    width: calc(100% - 42px); /* Adjusted width for input fields and buttons */
+    padding: 15px; /* Increased padding for input fields and buttons */
+    margin-bottom: 30px; /* Increased bottom margin for input fields and buttons */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+/* Additional CSS for the new location input field */
+#custom_location {
+    width: calc(100% - 42px); /* Adjusted width for the new location input field */
+    padding: 15px; /* Increased padding for the new location input field */
+    margin-bottom: 30px; /* Increased bottom margin for the new location input field */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.submit-btn {
+    background-color: #28a745; /* Green button color */
+    color: #fff; /* Button text color */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #218838; /* Darker green on hover */
+}
