@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Installation
-Running the application through the terminal:
+A) Running the application through the terminal:
 
 1. Clone the repository:
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Running the application manually:
+B) Running the application manually:
 1. Download the zip file and extract it in your computer.
 2. Install the requirements through the terminal.
 3. Inside the extracted file, open the folder "inventory_management" in VS Code or any other application of your choice.
