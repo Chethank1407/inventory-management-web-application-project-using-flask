@@ -1,15 +1,21 @@
 # Inventory Management Web Application Project Using Flask
 This is a simple inventory management web application project built using Flask, a popular Python web framework, and SQLAlchemy
 
+
 ## Features
 Add Products: Easily add new products to the inventory with details like name, price, quantity, and location.
+
 View Inventory: See a detailed list of all products including their names, prices, quantities, and current locations.
+
 Edit Products: Edit the name, price, quantity or even change the location of products between existing locations or to a new location.
+
 Generate Reports: Generate reports displaying product balances in each location.
+
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 
 ### Prerequisites
 
@@ -17,7 +23,9 @@ These instructions will get you a copy of the project up and running on your loc
 - Flask 1.1.2 or later
 - Flask-SQLAlchemy 2.4.4 or later
 
+
 ### Installation
+Running the application through the terminal:
 
 1. Clone the repository:
 
@@ -42,6 +50,12 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+Running the application manually:
+1. Download the zip file and extract it in your computer.
+2. Install the requirements through the terminal.
+3. Inside the extracted file, open the folder "inventory_management" in VS Code or any other application of your choice.
+4. Run the "app.py" program
 
 
 ### Usage
